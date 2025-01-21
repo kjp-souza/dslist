@@ -44,7 +44,7 @@ public class Game {
 		this.year = year;
 		this.genre = genre;
 		this.platforms = platforms;
-		this.score + score;
+		this.score = score;
 		this.imgUrl = imgUrl;
 		this.shortDescription = shortDescription;
 		this.longDescription = longDescription;
