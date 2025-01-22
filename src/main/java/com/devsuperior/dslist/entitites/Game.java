@@ -12,7 +12,6 @@ import jakarta.persistence.Table;
 
 @Entity
 @Table(name = "tb_game")
-
 public class Game {
 	
 	@Id
