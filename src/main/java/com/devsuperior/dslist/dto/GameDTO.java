@@ -4,8 +4,6 @@ import org.springframework.beans.BeanUtils;
 
 import com.devsuperior.dslist.entitites.Game;
 
-import ch.qos.logback.core.joran.util.beans.BeanUtil;
-
 public class GameDTO {
 	
 	private Long id;
